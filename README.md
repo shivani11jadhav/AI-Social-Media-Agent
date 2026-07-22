@@ -50,3 +50,7 @@ The proposed solution is an AI-powered Social Media Agent that leverages IBM Bob
                │
  X | LinkedIn | Instagram | Facebook 
  Trending APIs | News | Brand Docs
+
+*Project UI*
+<img width="959" height="500" alt="image" src="https://github.com/user-attachments/assets/e23d5f3a-cd4c-4c69-b631-8762d52e854d" />
+
